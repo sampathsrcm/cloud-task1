@@ -1,3 +1,0 @@
-WELCOME TO HYBRID CLOUD 
-<br>
-<br>
